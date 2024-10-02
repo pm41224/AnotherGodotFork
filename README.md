@@ -1,14 +1,12 @@
-# Godot Engine
+# Another Godot Fork
 
-<p align="center">
-  <a href="https://godotengine.org">
-    <img src="logo_outlined.svg" width="400" alt="Godot Engine logo">
-  </a>
-</p>
+The name of this engine is exactly what it says on the tin.
+
+I made this fork (a) for archival purposes and (b) for future modding. The name is temporary until I can come up with a better name and when I actually start modifying the code. In the meantime, the code is presented as-is.
 
 ## 2D and 3D cross-platform game engine
 
-**[Godot Engine](https://godotengine.org) is a feature-packed, cross-platform
+**[Another Godot Fork](https://godotengine.org) ("AGF") is a feature-packed, cross-platform
 game engine to create 2D and 3D games from a unified interface.** It provides a
 comprehensive set of [common tools](https://godotengine.org/features), so that
 users can focus on making games without having to reinvent the wheel. Games can
@@ -18,7 +16,7 @@ Web-based platforms and [consoles](https://docs.godotengine.org/en/latest/tutori
 
 ## Free, open source and community-driven
 
-Godot is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
+AGF is completely free and open source under the very permissive [MIT license](https://godotengine.org/license).
 No strings attached, no royalties, nothing. The users' games are theirs, down
 to the last line of engine code. Godot's development is fully independent and
 community-driven, empowering users to help shape their engine to match their
