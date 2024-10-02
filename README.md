@@ -1,6 +1,6 @@
 # Another Godot Fork
 
-The name of this engine is exactly what it says on the tin.
+The name of this fork is exactly what it says on the tin.
 
 I made this fork (a) for archival purposes and (b) for future modding. The name is temporary until I can come up with a better name and when I actually start modifying the code. In the meantime, the code is presented as-is.
 
